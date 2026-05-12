@@ -44,15 +44,15 @@ sudo rmmod proc_monitor
 ```
 
 ## Output
-kernel_version: 6.17.0-14-generic
-uptime: 4:12:10
-cpu_count: 4
-mem_total_kb: 3991132
-mem_free_kb: 913636
-mem_available_kb: 993648
-mem_used_kb: 3077496
-swap_total_kb: 0
-swap_free_kb: 0
+kernel_version: 6.17.0-14-generic /
+uptime: 4:12:10 /
+cpu_count: 4 /
+mem_total_kb: 3991132 /
+mem_free_kb: 913636 /
+mem_available_kb: 993648 /
+mem_used_kb: 3077496 /
+swap_total_kb: 0 /
+swap_free_kb: 0 /
 
 ## Why /proc Matters
 
