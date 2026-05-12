@@ -35,12 +35,12 @@ make
 ```
 
 ## Test Suite
-Test 1: Basic alloc/free
-Test 2: Memory reuse after free
-Test 3: Coalescing adjacent blocks
-Test 4: 8-byte alignment guarantee
-Test 5: Realloc with data preservation
-Test 6: Double free detection
+Test 1: Basic alloc/free \
+Test 2: Memory reuse after free \
+Test 3: Coalescing adjacent blocks \
+Test 4: 8-byte alignment guarantee \
+Test 5: Realloc with data preservation \
+Test 6: Double free detection \
 Test 7: Stress test - 1000 allocations
 
 ## Connection to Linux Kernel
