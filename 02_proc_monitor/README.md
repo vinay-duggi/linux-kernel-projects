@@ -52,7 +52,7 @@ mem_free_kb: 913636 \
 mem_available_kb: 993648 \
 mem_used_kb: 3077496 \
 swap_total_kb: 0 \
-swap_free_kb: 0 \
+swap_free_kb: 0
 
 ## Why /proc Matters
 
