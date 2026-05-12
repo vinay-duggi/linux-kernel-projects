@@ -54,6 +54,6 @@ Real GPU drivers (NVIDIA, AMD) and hardware
 accelerators used in HPC clusters follow this
 exact character device pattern. Understanding
 this interface is foundational for:
-- Canonical partner engineering with silicon vendors
+- Partner engineering with silicon vendors
 - HPC accelerator support at NVIDIA
 - Any low-level hardware enablement work
